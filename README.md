@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okasen
+- 👋 Hi, I’m @okasen -- Or Jenni, if you prefer!
 - 👀 I’m interested in coding useful, friendly solutions to problems. An accessible app to help vegetable gardeners plan their plots is my newest project!
 - 🌱 I’m currently learning how to transition my current code style into something more test driven.
 - 💞️ I’m looking to collaborate on that garden planner app, or really anything in Django that strikes my fancy.
